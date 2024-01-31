@@ -1,2 +1,2 @@
 # Own Site
-http://vssec.rg.gd
+http://vssec.rf.gd
