@@ -1,2 +1,2 @@
 # Own Site
-Deploy
+http://vsscec.rg.gd
