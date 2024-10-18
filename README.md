@@ -1,2 +1,2 @@
 # Own Site
-http://vssec.rf.gd
+http://dndsoft.my.id
