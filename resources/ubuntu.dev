@@ -1,3 +1,0 @@
-echo "Download & Install Ubuntu"
-	  wget -O ubuntu https://gist.githubusercontent.com/vssdav/9ec60cd604d0710484db3944d7011cef/raw/ubuntu &&
-    sudo bash ubuntu
